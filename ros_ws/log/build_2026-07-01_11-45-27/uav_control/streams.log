@@ -1,0 +1,31 @@
+[0.669s] Invoking command in '/home/tiago/HermesPerso/ros_ws/src/uav_control': PYTHONPATH=/home/tiago/HermesPerso/ros_ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_control build --build-base /home/tiago/HermesPerso/ros_ws/build/uav_control/build install --record /home/tiago/HermesPerso/ros_ws/build/uav_control/install.log --install-scripts $base/lib/uav_control --single-version-externally-managed install_data
+[0.937s] running egg_info
+[0.937s] creating ../../build/uav_control/uav_control.egg-info
+[0.937s] writing ../../build/uav_control/uav_control.egg-info/PKG-INFO
+[0.938s] writing dependency_links to ../../build/uav_control/uav_control.egg-info/dependency_links.txt
+[0.938s] writing entry points to ../../build/uav_control/uav_control.egg-info/entry_points.txt
+[0.938s] writing requirements to ../../build/uav_control/uav_control.egg-info/requires.txt
+[0.938s] writing top-level names to ../../build/uav_control/uav_control.egg-info/top_level.txt
+[0.938s] writing manifest file '../../build/uav_control/uav_control.egg-info/SOURCES.txt'
+[0.940s] reading manifest file '../../build/uav_control/uav_control.egg-info/SOURCES.txt'
+[0.941s] writing manifest file '../../build/uav_control/uav_control.egg-info/SOURCES.txt'
+[0.941s] running build
+[0.942s] running build_py
+[0.942s] creating /home/tiago/HermesPerso/ros_ws/build/uav_control/build
+[0.943s] creating /home/tiago/HermesPerso/ros_ws/build/uav_control/build/lib
+[0.944s] creating /home/tiago/HermesPerso/ros_ws/build/uav_control/build/lib/uav_control
+[0.944s] copying uav_control/__init__.py -> /home/tiago/HermesPerso/ros_ws/build/uav_control/build/lib/uav_control
+[0.944s] running install
+[0.944s] running install_lib
+[0.946s] creating /home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[0.946s] copying /home/tiago/HermesPerso/ros_ws/build/uav_control/build/lib/uav_control/__init__.py -> /home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[0.947s] byte-compiling /home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages/uav_control/__init__.py to __init__.cpython-310.pyc
+[0.947s] running install_data
+[0.947s] creating /home/tiago/HermesPerso/ros_ws/install/uav_control/share/uav_control/launch
+[0.947s] copying launch/mavros.launch.py -> /home/tiago/HermesPerso/ros_ws/install/uav_control/share/uav_control/launch
+[0.947s] running install_egg_info
+[0.949s] Copying ../../build/uav_control/uav_control.egg-info to /home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages/uav_control-0.1.0-py3.10.egg-info
+[0.950s] running install_scripts
+[0.971s] Installing keyboard_teleop script to /home/tiago/HermesPerso/ros_ws/install/uav_control/lib/uav_control
+[0.972s] writing list of installed files to '/home/tiago/HermesPerso/ros_ws/build/uav_control/install.log'
+[0.996s] Invoked command in '/home/tiago/HermesPerso/ros_ws/src/uav_control' returned '0': PYTHONPATH=/home/tiago/HermesPerso/ros_ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_control build --build-base /home/tiago/HermesPerso/ros_ws/build/uav_control/build install --record /home/tiago/HermesPerso/ros_ws/build/uav_control/install.log --install-scripts $base/lib/uav_control --single-version-externally-managed install_data

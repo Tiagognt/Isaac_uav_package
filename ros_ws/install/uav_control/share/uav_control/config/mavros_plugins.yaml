@@ -1,0 +1,9 @@
+/mavros/**:
+  ros__parameters:
+    plugin_allowlist:
+      - sys_status
+      - command
+      - setpoint_velocity
+      - local_position
+      - global_position
+      - imu

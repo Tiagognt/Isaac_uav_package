@@ -1,0 +1,11 @@
+[0.707s] Invoking command in '/home/tiago/HermesPerso/ros_ws/src/uav_control': PYTHONPATH=/home/tiago/HermesPerso/ros_ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_control build --build-base /home/tiago/HermesPerso/ros_ws/build/uav_control/build install --record /home/tiago/HermesPerso/ros_ws/build/uav_control/install.log --install-scripts $base/lib/uav_control --single-version-externally-managed install_data
+[0.974s] running egg_info
+[0.975s] creating ../../build/uav_control/uav_bringup.egg-info
+[0.975s] writing ../../build/uav_control/uav_bringup.egg-info/PKG-INFO
+[0.976s] writing dependency_links to ../../build/uav_control/uav_bringup.egg-info/dependency_links.txt
+[0.976s] writing entry points to ../../build/uav_control/uav_bringup.egg-info/entry_points.txt
+[0.976s] writing requirements to ../../build/uav_control/uav_bringup.egg-info/requires.txt
+[0.976s] writing top-level names to ../../build/uav_control/uav_bringup.egg-info/top_level.txt
+[0.976s] writing manifest file '../../build/uav_control/uav_bringup.egg-info/SOURCES.txt'
+[0.977s] error: package directory 'uav_bringup' does not exist
+[0.997s] Invoked command in '/home/tiago/HermesPerso/ros_ws/src/uav_control' returned '1': PYTHONPATH=/home/tiago/HermesPerso/ros_ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tiago/HermesPerso/ros_ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_control build --build-base /home/tiago/HermesPerso/ros_ws/build/uav_control/build install --record /home/tiago/HermesPerso/ros_ws/build/uav_control/install.log --install-scripts $base/lib/uav_control --single-version-externally-managed install_data

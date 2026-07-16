@@ -1,0 +1,8 @@
+running egg_info
+creating ../../build/uav_control/uav_bringup.egg-info
+writing ../../build/uav_control/uav_bringup.egg-info/PKG-INFO
+writing dependency_links to ../../build/uav_control/uav_bringup.egg-info/dependency_links.txt
+writing entry points to ../../build/uav_control/uav_bringup.egg-info/entry_points.txt
+writing requirements to ../../build/uav_control/uav_bringup.egg-info/requires.txt
+writing top-level names to ../../build/uav_control/uav_bringup.egg-info/top_level.txt
+writing manifest file '../../build/uav_control/uav_bringup.egg-info/SOURCES.txt'
